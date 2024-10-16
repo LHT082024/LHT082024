@@ -1,8 +1,8 @@
 ## Ello 👋
 
-currently a student at kodehode 🖥️
-I like patterns 🧩 
-Currenly learning c# 🌱
+- currently a student at kodehode 🖥️
+- I like patterns 🧩 
+- Currenly learning c# 🌱
 
 
 <!--
