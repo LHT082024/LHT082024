@@ -1,4 +1,9 @@
-## Hi there 👋
+## Ello 👋
+
+currently a student at kodehode 🖥️
+I like patterns 🧩 
+Currenly learning c# 🌱
+
 
 <!--
 **LHT082024/LHT082024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
