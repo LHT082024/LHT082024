@@ -26,7 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" title="dotNetCore"> 
 </picture> 
 <picture> 
-  <img src="" width="40" height="40" title=""> 
+  <img src="sql.png" width="40" height="40" title="SQLServerManagmentStudio"> 
 </picture> 
 <picture> 
   <img src="" width="40" height="40" title=""> 
