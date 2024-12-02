@@ -8,7 +8,7 @@
 
 ## What I use 
 <picture> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" width="40" height="40"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40">  <img src="" width="40" height="40">   <img src="" width="40" height="40">  <img src="" width="40" height="40"> 
 </picture> 
 
 
