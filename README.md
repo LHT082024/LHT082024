@@ -17,13 +17,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" width="40" height="40">
 </picture> 
 <picture> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css" width="40" height="40">   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" width="40" height="40">   
 </picture>
 <picture> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" width="40" height="40"> 
 </picture>
 <picture> 
-  <img src="" width="40" height="40" title=""> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" title="dotNetCore"> 
 </picture> 
 <picture> 
   <img src="" width="40" height="40" title=""> 
