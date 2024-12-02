@@ -13,21 +13,27 @@
 </picture> 
 <picture> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="40" height="40" title="visualStudio" align="center"> 
+   &nbsp; &nbsp;
 </picture> 
 <picture> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" width="40" height="40" align="center">
+   &nbsp; &nbsp;
 </picture> 
 <picture> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" width="40" height="40" align="center">   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" width="40" height="40" align="center"> 
+   &nbsp; &nbsp;
 </picture>
 <picture> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" width="40" height="40" align="center"> 
+   &nbsp; &nbsp;
 </picture>
 <picture> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" title="dotNetCore" align="center"> 
+   &nbsp; &nbsp;
 </picture> 
 <picture> 
   <img src="/images/sql.png" width="40" height="40" title="SQLServerManagmentStudio" align="center"> 
+   &nbsp; &nbsp;
 </picture> 
 
 
