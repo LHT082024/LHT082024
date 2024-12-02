@@ -1,4 +1,5 @@
-## Ello 👋
+## Imagen fancy image here
+---
 
 - currently a student at kodehode 🖥️
 - I like patterns 🧩 
