@@ -1,7 +1,7 @@
 ## Imagen fancy image here
 
 ## About me 
-- I am Lucia and I'm currently a student at kodehode🖥️
+- My name is Lucia and I'm currently a student at kodehode🖥️
 - currently I am learning c#🌱 and I really like making APIs 🧩 
 - Like an annoying child constantly asking "why?" I am really enthusiastic about trying
   to understand how coding works and how different programs and software interact with each other.
