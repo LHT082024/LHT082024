@@ -8,25 +8,25 @@
 
 ## What I use 
 <picture> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" title="vscode"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40" title="vscode" align="center"> 
 </picture> 
 <picture> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="40" height="40" title="visualStudio"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="40" height="40" title="visualStudio" align="center"> 
 </picture> 
 <picture> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" width="40" height="40" align="center">
 </picture> 
 <picture> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" width="40" height="40">   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" width="40" height="40" align="center">   
 </picture>
 <picture> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" width="40" height="40"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" width="40" height="40" align="center"> 
 </picture>
 <picture> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" title="dotNetCore"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" title="dotNetCore" align="center"> 
 </picture> 
 <picture> 
-  <img src="/images/sql.png" width="40" height="40" title="SQLServerManagmentStudio"> 
+  <img src="/images/sql.png" width="40" height="40" title="SQLServerManagmentStudio" align="center"> 
 </picture> 
 
 
