@@ -28,9 +28,7 @@
 <picture> 
   <img src="/images/sql.png" width="40" height="40" title="SQLServerManagmentStudio"> 
 </picture> 
-<picture> 
-  <img src="" width="40" height="40" title=""> 
-</picture> 
+
 
 
 
