@@ -9,7 +9,7 @@
   understand how coding works and how different programs and software interact with each other.
   
 - Besides coding I spend an enormous amount of time drawing<br/>
-  pictures and comics that theedgy 14 year old I once was would have loved. 
+  pictures and comics that the edgy 14 year old I once was would have loved. 
 
 ## What I use 
 <picture> 
