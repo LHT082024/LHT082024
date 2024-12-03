@@ -5,7 +5,7 @@
 - currently I am learning c#🌱 and I really like making APIs 🧩 
 - Like an annoying child constantly asking "why?" I try to learn and 
   understand how coding works and how different programs and software interact with each other.
--Besides coding I spend an enormous amount of time drawing pictures and comics that the
+- Besides coding I spend an enormous amount of time drawing pictures and comics that the
  edgy 14 year old I once was would have loved. 
 
 ## What I use 
