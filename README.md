@@ -2,11 +2,14 @@
 
 ## About me 
 - My name is Lucia and I'm currently a student at kodehode🖥️
-- currently I am learning c#🌱 and I really like making APIs 🧩 
+  
+- currently I am learning c#🌱 and I really like making APIs 🧩
+  
 - Like an annoying child constantly asking "why?" I try to learn and<br/>
   understand how coding works and how different programs and software interact with each other.
-- Besides coding I spend an enormous amount of time drawing pictures and comics that the
- edgy 14 year old I once was would have loved. 
+  
+- Besides coding I spend an enormous amount of time drawing<br/>
+  pictures and comics that theedgy 14 year old I once was would have loved. 
 
 ## What I use 
 <picture> 
