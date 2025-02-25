@@ -1,7 +1,7 @@
 ## Imagen fancy image here
 
 ## About me 
-- My name is Lucia and I'm currently a student at kodehode🖥️
+- My name is Patrick and I'm currently a student at kodehode🖥️
   
 - currently I am learning c#🌱 and I really like making APIs 🧩
   
