@@ -3,7 +3,9 @@
 ## About me 
 - My name is Patrick and I'm currently a student at kodehode🖥️
   
-- currently I am learning c#🌱 and I really like making APIs 🧩
+-  I really like making APIs 🧩
+
+-  I am currently learning react🌱
   
 - Like an annoying child constantly asking "why?" I try to learn and<br/>
   understand how coding works and how different programs and software interact with each other.
