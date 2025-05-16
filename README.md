@@ -43,7 +43,7 @@ that the edgy 14 year old I once was would have loved.
    &nbsp; &nbsp;
 </picture> 
 <picture> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="70px" height="70" title="React" alt="React" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="70px" height="70" title="React" alt="React" align="center" />
    &nbsp; &nbsp;
 </picture> 
 
