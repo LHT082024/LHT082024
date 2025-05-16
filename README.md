@@ -31,6 +31,10 @@ that the edgy 14 year old I once was would have loved.
    &nbsp; &nbsp;
 </picture>
 <picture> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80px" alt="JavaScript" width="70" height="70" title="Javascript" align="center"> 
+   &nbsp; &nbsp;
+</picture> 
+<picture> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" width="70" height="70" align="center"> 
    &nbsp; &nbsp;
 </picture>
