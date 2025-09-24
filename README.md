@@ -1,4 +1,4 @@
-## Imagen fancy image here
+## Imagine fancy image here
 
 ## About me 
 - My name is Patrick and I'm currently a student at kodehode🖥️
