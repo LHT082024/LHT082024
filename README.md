@@ -1,7 +1,7 @@
 ## Imagine fancy image here
 
 ## About me 
-- My name is Patrick and I'm currently a student at kodehode🖥️
+- My name is Patrick and I'm currently interning at Quantfolio🖥️
   
 -  I really like making APIs 🧩
 
