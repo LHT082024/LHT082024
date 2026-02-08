@@ -7,8 +7,8 @@
   
 - I’m currently working with C# and Python
   
-- outside of coding I like painting and building warhammer minatures and going to the gym<br/>
-  so I do something other then sitting in front of a screen all day 
+- Outside of coding, I like painting and building Warhammer miniatures and going to the gym, so I’m not<br/>
+  sitting in front of a screen all day.
 
 ## What I use 
 <picture> 
