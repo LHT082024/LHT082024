@@ -4,14 +4,11 @@
 - My name is Patrick and I'm currently interning at Quantfolio🖥️
   
 -  I really like making APIs 🧩
-
--  I am currently learning react🌱
   
-- Like an annoying child constantly asking "why?" I try to learn and<br/>
-  understand how coding works and how different programs and software interact with each other.
+- I’m currently working with C# and Python
   
-- Besides coding I spend an enormous amount of time writing and drawing comics<br/>
-that the edgy 14 year old I once was would have loved. 
+- outside of coding I like painting and building warhammer minatures and going to the gym<br/>
+  so I do something other then sitting in front of a screen all day 
 
 ## What I use 
 <picture> 
