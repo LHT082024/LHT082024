@@ -48,7 +48,8 @@
    &nbsp; &nbsp;
 </picture> 
 <picture>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Csharp" width="70" height="70" align="center"> 
+   &nbsp; &nbsp;
 </picture>
 
 
