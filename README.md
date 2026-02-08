@@ -47,6 +47,9 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="70px" height="70" title="React" alt="React" align="center" />
    &nbsp; &nbsp;
 </picture> 
+<picture>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+</picture>
 
 
 
