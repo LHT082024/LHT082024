@@ -15,10 +15,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="70" height="70" title="vscode" align="center"> 
    &nbsp; &nbsp;
 </picture> 
-<picture> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="70" height="70" title="visualStudio" align="center"> 
-   &nbsp; &nbsp;
-</picture> 
+
 <picture> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" width="70" height="70" align="center">
    &nbsp; &nbsp;
@@ -32,7 +29,7 @@
    &nbsp; &nbsp;
 </picture> 
 <picture> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" width="70" height="70" align="center"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="70" height="70" align="center"> 
    &nbsp; &nbsp;
 </picture>
 <picture> 
@@ -48,7 +45,7 @@
    &nbsp; &nbsp;
 </picture> 
 <picture>
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Csharp" width="70" height="70" align="center"> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="70" height="70" align="center"> 
    &nbsp; &nbsp;
 </picture>
 
